@@ -31,8 +31,12 @@ To run the project, follow these steps:
 1. Navigate to the project directory:
    ```bash
    cd Beam-Rise-Slope-Calculation
+   ```
 2. Compile the code:
+   ```bash
 g++ project.cpp -o beam_calculation
-3. Run the executable:
+   ```
+4. Run the executable:
+   ```bash
 ./beam_calculation
-```
+   ```
