@@ -4,8 +4,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Inputs](#inputs)
-- [Installation](#installation)
-- [Usage](#usage)
+- [How to Run the Project](#How_to_Run_the_Project)
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
@@ -40,3 +39,24 @@ g++ project.cpp -o beam_calculation
    ```bash
 ./beam_calculation
    ```
+
+
+
+## How to Run the Project
+To run the project locally, follow the steps below:
+
+1. Clone this repository:
+    ```bash
+    git clone https://github.com/Abyaneh/autonomous-robot-navigation.git
+    ```
+
+2. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+3. Compile the code:
+    ```bash
+    open project.cpp
+    ```
+
+[Back to Top](#table-of-contents)
