@@ -59,7 +59,7 @@ To run the project locally, follow the steps below:
     open project.cpp
     ```
 ### A demo video explaining how to run the code is available:
-- **Processed Video:** [Download output_video.avi](https://github.com/Abyaneh/car_-counter_final-edition/blob/main/output_video.avi)
+- **How to Run the Project:** [How to Run the Project.mp4](https://github.com/Abyaneh/Rise-and-Slope-Calculation-in-Beams/blob/main/How%20to%20run%20the%20code.mp4)
 
 
 [Back to Top](#table-of-contents)
