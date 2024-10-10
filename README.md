@@ -58,5 +58,8 @@ To run the project locally, follow the steps below:
     ```bash
     open project.cpp
     ```
+### A demo video explaining how to run the code is available:
+- **Processed Video:** [Download output_video.avi](https://github.com/Abyaneh/car_-counter_final-edition/blob/main/output_video.avi)
+
 
 [Back to Top](#table-of-contents)
