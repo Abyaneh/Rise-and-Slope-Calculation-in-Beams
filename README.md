@@ -47,7 +47,7 @@ To run the project locally, follow the steps below:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/Abyaneh/autonomous-robot-navigation.git
+    git clone https://github.com/Abyaneh/Rise-and-Slope-Calculation-in-Beams/tree/main
     ```
 
 2. Install the required dependencies:
