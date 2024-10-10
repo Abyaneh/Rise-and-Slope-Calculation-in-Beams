@@ -63,3 +63,14 @@ To run the project locally, follow the steps below:
 
 
 [Back to Top](#table-of-contents)
+
+
+
+## Results
+After running the code, the program will prompt you to enter information such as the type of beam, the magnitude and location of the applied force and moment, and the length of the beam. Once the inputs are provided, the program will calculate and display the slope and deflection.
+
+### Sample of output
+![output]()
+
+
+[Back to Top](#table-of-contents)
