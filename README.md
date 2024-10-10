@@ -4,7 +4,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Inputs](#inputs)
-- [How to Run the Project](#How_to_Run_the_Project)
+- [How to Run the Project](#How-to-Run-the-Project)
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
