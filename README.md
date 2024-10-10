@@ -24,23 +24,6 @@ This project focuses on the calculation of rise and slope in beams, a crucial to
 - Beam type (e.g., cantilever, simply supported, etc.)
 - Moment of inertia
 
-## Installation
-To run the project, follow these steps:
-
-1. Navigate to the project directory:
-   ```bash
-   cd Beam-Rise-Slope-Calculation
-   ```
-2. Compile the code:
-   
-g++ project.cpp -o beam_calculation
-   ```
-4. Run the executable:
-   ```bash
-./beam_calculation
-   ```
-
-
 
 ## How to Run the Project
 To run the project locally, follow the steps below:
@@ -59,7 +42,7 @@ To run the project locally, follow the steps below:
     open project.cpp
     ```
 #### A demo video explaining how to run the code is available:
-- **How to Run the Project:** you can see it in this [link](https://github.com/Abyaneh/Rise-and-Slope-Calculation-in-Beams/blob/main/How%20to%20run%20the%20code.mp4)
+- **How to Run the Project:** you can see it in [this link](https://github.com/Abyaneh/Rise-and-Slope-Calculation-in-Beams/blob/main/How%20to%20run%20the%20code.mp4)
 
 
 [Back to Top](#table-of-contents)
