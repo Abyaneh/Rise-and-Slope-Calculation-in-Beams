@@ -33,13 +33,13 @@ To run the project locally, follow the steps below:
     git clone https://github.com/Abyaneh/Rise-and-Slope-Calculation-in-Beams/tree/main
     ```
 
-2. Install the required dependencies:
+2. Compile the C++ File:
     ```bash
-    pip install -r requirements.txt
+    g++ project.cpp -o project
     ```
-3. Compile the code:
+3. Run the Compiled Program:
     ```bash
-    open project.cpp
+    ./project.cpp
     ```
 #### A demo video explaining how to run the code is available:
 - **How to Run the Project:** you can see it in [this link](https://github.com/Abyaneh/Rise-and-Slope-Calculation-in-Beams/blob/main/How%20to%20run%20the%20code.mp4)
